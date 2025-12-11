@@ -57,17 +57,22 @@ As new versions of iPhone and Android operating systems are released, the app wi
 Unlike a standalone utility app, the local cafe siren order platform relies on a two-sided marketplace. Success depends on building a cohesive ecosystem that unites three distinct groups: Independent business owners (partners), coffee enthusiasts (users), and open source contributors (developers). Our community building strategy focuses on harmonizing these groups to create a sustainable local coffee culture. 
 
 1. The partner network (local cafe owners) The foundation of our community is the network of local coffee shops. Unlike big franchises, these owners often lack technical expertise but possess deep knowledge of coffee. 
-  1a) Engagement strategy: we will establish a Partner council, a small group of early adopter cafe owners who provide direct feedback on the dashboard's usability and operational workflow. 
+  1a) Engagement strategy: we will establish a Partner council, a small group of early adopter cafe owners who provide direct feedback on the dashboard's usability and operational workflow.
+   
   1b) Support & education: Instead of standard technical documentation, we will provide operational playbooks and video guides on how to integrate mobile orders into a busy barista workflow without disrupting service quality. 
+  
   1c))Value proposition: by framing the app as a "Small Business Alliance," we foster a sense of solidarity among owners, encouraging them to promote the app to their loyal customers as a way to support local commerce. 
 
-2. The user community (coffee enthusiasts) For the consumers, the community strategy shifts from "utility" to "discovery and taste." The goal is to turn passive customers into active advocates for local coffee. 
-  2a)Social discovery: the app will feature a "bean review" and "cafe discovery" forum where users can share tasting notes and recommend hidden gems. This taps into the "coffee connoisseur" aspect of the target audience. 
+3. The user community (coffee enthusiasts) For the consumers, the community strategy shifts from "utility" to "discovery and taste." The goal is to turn passive customers into active advocates for local coffee. 
+  2a)Social discovery: the app will feature a "bean review" and "cafe discovery" forum where users can share tasting notes and recommend hidden gems. This taps into the "coffee connoisseur" aspect of the target audience.
+   
   2b)Campus ambassadors: we will recruit student ambassadors(from u of i) to promote the app during exam week which is a prime time for caffeine consumption, creating a grassroots movement against franchise dominance. 
+  
   2c)Gamification: we will implement a community wide local loyalty leaderboard, rewarding users who visit the most unique local shops, encouraging exploration over routine. 
 
-3. The developer guild (open source contributors) This group focuses on the technical scalability of the platform. 
-  3a) Focus Areas: we will direct open-source contributions toward specific technical challenges, such as POS API Integrations (connecting to Square, Toast, Clover) and Latency Optimization. 
+5. The developer guild (open source contributors) This group focuses on the technical scalability of the platform. 
+  3a) Focus Areas: we will direct open-source contributions toward specific technical challenges, such as POS API Integrations (connecting to Square, Toast, Clover) and Latency Optimization.
+   
   3b) Hackathons: We will host tech for local hackathons, inviting computer science students to build plugins or features that specifically help small businesses, adding a social good motivation to their code contributions. 
 
 ## Conclusion
