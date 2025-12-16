@@ -106,6 +106,7 @@ The project follows a semester-aligned Agile methodology (Agile Alliance, 2001).
 We utilize GitHub for version control and project management. Features are tracked using Kanban boards (To Do, In Progress, Done), and automated testing pipelines run on every Pull Request to prevent regressions (GitHub, n.d.).
 
 **Figure 1.** *UniMarket Agile Development Workflow & System Architecture.*  
+<img width="161" height="442" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/380e8b20-c73a-4307-b0bf-8336b98c84a1" />
 *(Note: The diagram illustrates the data flow from the student user to the mobile app, processed by the Node.js server, and stored in the MongoDB database.)*
 
 ---
