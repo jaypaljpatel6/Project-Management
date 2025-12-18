@@ -21,6 +21,6 @@ Connor Slattery
 Isaac Chin   
 Satyam Malhotra   
 Alina Tai   
-Anish Gadre
-Temi Adejare
-Madison Miller
+Anish Gadre    
+Temi Adejare     
+Madison Miller    
