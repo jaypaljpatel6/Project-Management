@@ -32,7 +32,6 @@ Real-time information is a key feature of the proposed solution. A lot of invest
 
 ## 4. Development Strategy
 
-![]{}
 Portora would be developed through phases, where each of the succedding phase is undertaken based on the feedback obtained from the users after they interact with the release from the previous version (Boehm, 1988). Instead of aiming to quickly deliver a final product, this strategy ensures that problem space is properly understood, legalities around this field are properly taken into consideration, meaningful feedback is gained and the system is carefully built without wasting resources.
 
 The first phase of the process starts with ideation and planning. The main focus in this phase is to clearly define the gap that is being addressed. There is one task that primarily falls in this phasse. It is known that there is a shortfall in ters of financial modelling tools, so it is important to articulte specific obstacles that users face when interacting with traditional investing tools and understand in-depth why current solutions are not enough. Targetted audiences are already known.
@@ -47,7 +46,7 @@ Next, in the final stage of the development process, mainly during weeks thirtee
 
 This phased development strategy ensures that user needs and experience are central to the process, and never go unnoticed (Poppendieck & Poppendieck, 2003). Because, it is very easy to deviate focus to features that might not mean a lot to users.
 
-![workflow map](images_jaypal_patel/workflow_jaypal_patel.png)
+![workflow map](image_jaypal_patel/workflow_jaypal_patel.png)
 
 ## 5. Tech Stack
 Portora's tech stack is built to balance power and accessibility while keeping in mind user-first principle. The primary language for the entire system is Python, and most of the computational load on the system is handled by two libraries, numpy and pandas. These tools work behind the scenes to ensure that correct outputs are brought to the user.
