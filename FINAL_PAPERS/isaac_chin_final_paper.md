@@ -14,6 +14,8 @@ In large organizations, knowledge is the primary currency of productivity. Howev
 
 The creation of these silos is rarely intentional but is instead the result of systemic organizational friction. As illustrated in the provided research, silos are driven by a combination of intricate organizational structures, a lack of inter-departmental communication, and the persistence of legacy systems that do not communicate with one another.
 
+![infosilo](isaac_chin_images/infosilo.png)
+
 As shown in the figure above, cultural barriers also play a significant role. Different departments often operate with varying priorities and distinct vocabularies, meaning that a search term used by an engineer might yield no results in a database managed by Human Resources, even if the relevant document exists.
 
 Legacy technologies exacerbate this disconnect by relying on keyword-based search mechanisms. These traditional tools assume that the user already possesses a high degree of domain knowledge: they must know the correct document name or the precise terminology used by the author. When these conditions are not met, the search fails, or worse, returns a flood of "noisy" results that leads to information overload. Over time, these limitations solidify the silos, ensuring that valuable knowledge remains difficult to access or apply.
