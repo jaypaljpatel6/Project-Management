@@ -40,6 +40,8 @@ The system architecture is designed to prioritize transparency and interpretabil
 
 The comprehensive solution for this problem is a "Full RAG (Retrieval-Augmented Generation) pipeline". This architecture involves significant infrastructure investment and a build time of 3 to 5 months.
 
+![rag](isaac_chin_images/rag.png)
+
 As detailed in the architecture diagram, the full pipeline follows a complex data journey:
 
 - **Data Sourcing:** Ingesting raw data from across the organization.
@@ -64,6 +66,8 @@ This "Lean" approach allows the project to act as a decision-support tool and re
 
 The user interface (UI) is the bridge between the complex retrieval logic and the employee. The design prioritizes natural language input, allowing users to ask questions as if they were speaking to a human assistant.
 
+![ui](isaac_chin_images/ui.png)
+
 As shown in the prototype above, the interface includes:
 
 - **Natural Language Input:** A chat bar prompting, "Ask me anything about 84.51 policies, benefits, or procedures...".
@@ -73,6 +77,8 @@ As shown in the prototype above, the interface includes:
 ## Implementation Roadmap
 
 The implementation of this system follows an Agile, sprint-based methodology spanning six months. The goal is to build and deploy an internal AI tool while actively managing technical debt.
+
+![roadmap](isaac_chin_images/roadmap.png)
 
 ### Phase 1: Planning & Design (Month 1)
 
